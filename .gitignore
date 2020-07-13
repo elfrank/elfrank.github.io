@@ -1,1 +1,6 @@
+# OS X files
 .DS_Store
+
+# jekyll
+.jekyll-cache/
+_site/
