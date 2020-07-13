@@ -2,7 +2,7 @@
 layout: post
 title:  A Practical System for 1-on-1's
 categories: [Productivity,Management]
-excerpt: 1-on-1s are a crucial component of healthy professional relationships. There are numerous articles only about how to get the best out of 1:1s, which I won't dive into. Instead, I would like to share the system I use to prepare my 1-on-1s. It consists of three components: preparation, documentation and follow through.
+excerpt: 1-on-1s are a crucial component of healthy professional relationships. There are numerous articles only about how to get the best out of 1-on-1s, which I won't dive into. Instead, I would like to share the system I use to prepare my 1-on-1s. It consists of three components, preparation, documentation and follow through.
 ---
 
 1-on-1s are a crucial component of healthy professional relationships. There are numerous articles only about how to get the best out of 1-on-1s, which I won't dive into. Instead, I would like to share the system I use to prepare my 1-on-1s. It consists of three components: preparation, documentation and follow through.
@@ -15,7 +15,7 @@ Technology is pretty good at that. So, why not use it?
 ## The System
 
 ### Create a Running Document
-Focus on simplicity. I prefer Google Docs, but there are dozens of tools out there. Use what works for you. 
+Focus on simplicity. I prefer Google Docs, but there are dozens of tools out there. Use what works for you.
 
 There are three important aspects to it:
 * Use headings for the dates so that you can navigate quickly to a specific date.
