@@ -2,15 +2,17 @@
 layout: post
 title:  A Practical System for 1-on-1's
 categories: [Productivity,Management]
-excerpt: 1-on-1s are a crucial component of healthy professional relationships. There are numerous articles only about how to get the best out of 1:1s, which I won't dive into. Instead, I would like to share the system I use to prepare my 1-on-1s. Systems allow us to scale by making repeatable tasks automatic. We, humans, are not designed to remember information. Technology is pretty good at that. So, why not use it?
+excerpt: 1-on-1s are a crucial component of healthy professional relationships. There are numerous articles only about how to get the best out of 1:1s, which I won't dive into. Instead, I would like to share the system I use to prepare my 1-on-1s. It consists of three components: preparation, documentation and follow through.
 ---
 
-1-on-1s are a crucial component of healthy professional relationships. There are numerous articles only about how to get the best out of 1:1s, which I won't dive into. Instead, I would like to share the system I use to prepare my 1-on-1s.
+1-on-1s are a crucial component of healthy professional relationships. There are numerous articles only about how to get the best out of 1-on-1s, which I won't dive into. Instead, I would like to share the system I use to prepare my 1-on-1s. It consists of three components: preparation, documentation and follow through.
 
 Systems allow us to scale by making repeatable tasks automatic.
 We, humans, are not designed to remember information.
 
 Technology is pretty good at that. So, why not use it?
+
+## The System
 
 ### Create a Running Document
 Focus on simplicity. I prefer Google Docs, but there are dozens of tools out there. Use what works for you.
@@ -46,3 +48,8 @@ Use a notebook to capture thoughts, ideas, or feedback during your day. Make it 
 I keep a notebook and pen next to me during my workday. My notebook is full of miscellaneous notes. Most notes come from 1:1 conversations, something important from a meeting, or a sudden thought that I wanted to capture.
 
 Coincidentally, some of the notes are great topics to cover during 1-on-1s. Once a week, I go through my notebook and translate some of them into action items or 1-on-1 topics.
+
+## Closing Thoughts
+As a Manager, my 1-on-1s focused mainly on my team's well-being, coaching, and personal growth. I am back into an IC role (which seems like a misnomer), and my 1-on-1s are a mix of technical discussions, alignment, coaching, and checking in with others.
+
+This system, among others, allows me to scale. Use what works for you, and don't forget to prepare yourself in advance, document action items, and follow-through.
