@@ -5,7 +5,7 @@ categories: [Productivity,Management]
 excerpt: 1-on-1s are a crucial component of healthy professional relationships. There are numerous articles only about how to get the best out of 1-on-1s, which I won't dive into. Instead, I would like to share the system I use to prepare my 1-on-1s. It consists of three components, preparation, documentation and follow through.
 ---
 
-1-on-1s are a crucial component of healthy professional relationships. There are numerous articles only about how to get the best out of 1-on-1s, which I won't dive into. Instead, I would like to share the system I use to prepare my 1-on-1s. It consists of three components: preparation, documentation and follow through.
+1-on-1s are a crucial component of healthy professional relationships. There are numerous articles only about how to get the best out of 1-on-1s, which I won't dive into. Instead, I would like to share the system I use to prepare my 1-on-1s. It consists of three components, preparation, documentation and follow through.
 
 Systems allow us to scale by making repeatable tasks automatic.
 We, humans, are not designed to remember information.
