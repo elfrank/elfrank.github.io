@@ -15,12 +15,14 @@ Technology is pretty good at that. So, why not use it?
 ## The System
 
 ### Create a Running Document
-Focus on simplicity. I prefer Google Docs, but there are dozens of tools out there. Use what works for you.
+Focus on simplicity. I prefer Google Docs, but there are dozens of tools out there. Use what works for you. 
 
 There are three important aspects to it:
 * Use headings for the dates so that you can navigate quickly to a specific date.
 * Keep the most recent session at the top.
 * Each session, represented by date, includes action items, and a series of topics to cover.
+
+You can download my Google Doc template [here](https://docs.google.com/document/d/16jqtekvrpprYeNAWw7NQl1BnEYxIJ3C-mfgGV6z6iCY/edit?usp=sharing).
 
 ### Share the Document
 1-on-1s are a two-way street. Share the document with the other party. This way, both can add topics you would like to discuss, and both can review topics ahead of time.
