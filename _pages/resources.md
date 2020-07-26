@@ -26,5 +26,5 @@ permalink: /resources/
 ## Recommended Newsletters
 
 * [James Clear](https://jamesclear.com/): Habits
-* [Will Larson](https://lethain.com/): Experienced Software Engineers
+* [Will Larson](https://lethain.com/): Career Progression
 * [Patrick Kua](https://www.patkua.com/): Technical Leadership
