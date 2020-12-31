@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Improve Systems through Better Decision Making
+title: Improving Systems through Better Decisions
 categories: [Technical Leadership,Architecture]
 excerpt: People build systems. The systems we have are the result of thousands of tiny  decisions over time. Better decisions should turn into better systems. Right?
 ---
