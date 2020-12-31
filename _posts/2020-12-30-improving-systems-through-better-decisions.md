@@ -5,6 +5,8 @@ categories: [Technical Leadership,Software Architecture, Engineering Culture]
 excerpt: People build systems. The systems we have are the result of thousands of tiny  decisions over time. Better decisions should turn into better systems. Right?
 ---
 
+People build systems. The systems we have are the result of thousands of tiny  decisions over time. Better decisions should turn into better systems. Right?
+
 Earlier this year, I was upset because I couldn't drive a conversation into a sound technical decision. I knew that the final decision from the team would introduce inefficiencies in the form of a future back and forth with customers and external stakeholders. We could avoid all of that on the get-go with minimal code changes. But I failed in communicating effectively.
 
 We picked a project to address substantial tech debt. In the grand scheme of things, the fact that we were addressing the root problem was a significant win already. But I was stuck on the details of a technical decision. The decision was inefficient, but it  was inconsequential. We would address it as soon as we received external feedback.
