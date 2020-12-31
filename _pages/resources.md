@@ -14,6 +14,7 @@ Find here some templates I use at work. Do you have some recommendations? [Let m
 From 2019 or earlier
 * [Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296), by Peter Thiel
 * [Range](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484), by David Epstein
+
 From 2020
 * [The Courage to be Disliked](https://books.apple.com/us/audiobook/the-courage-to-be-disliked-unabridged/id1439487957), by Ichiro Kishimi & Fumitake Koga
 * [The Goal](https://books.apple.com/us/audiobook/goal-process-ongoing-improvement-30th-anniversary-edition/id1428836510), by Eliyahu M. Goldratt & Jeff Cox
