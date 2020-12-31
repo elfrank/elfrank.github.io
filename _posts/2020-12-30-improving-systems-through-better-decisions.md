@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Improving Systems through Better Decisions
-categories: [Technical Leadership,Architecture]
+categories: [Technical Leadership,Software Architecture, Engineering Culture]
 excerpt: People build systems. The systems we have are the result of thousands of tiny  decisions over time. Better decisions should turn into better systems. Right?
 ---
 
