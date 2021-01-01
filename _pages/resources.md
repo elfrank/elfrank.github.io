@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 
 ## Templates
-Find here some templates I use at work. Do you have some recommendations? [Let me know!](https://twitter.com/tafcisco)
+Templates you can use for inspiration. Do you have some recommendations? [Let me know!](https://twitter.com/tafcisco)
 * [Quarterly Goals](https://docs.google.com/document/d/1fwLqCd1uOz_RM3tdQWyQhHACXKClQlOpPgVom8apG8Y/edit?usp=sharing)
 * [Weekly Status](https://docs.google.com/document/d/1tw3tvQO4E4kUWAIzARijipnAr5vI_SDBhmv3Xm0H570/edit?usp=sharing)
 * [Regular Syncs and 1:1s](https://docs.google.com/document/d/16jqtekvrpprYeNAWw7NQl1BnEYxIJ3C-mfgGV6z6iCY/edit?usp=sharing)
@@ -29,6 +29,8 @@ Some of my favorite articles
 * [To Lead, you have to follow](https://lethain.com/to-lead-follow/), by Will Larson
 * [Product vs Feature Teams](https://svpg.com/product-vs-feature-teams/), by Marty Cagan
 * [Delivering on an Architecture Strategy](https://blog.thepete.net/blog/2019/12/09/delivering-on-an-architecture-strategy/), by Pete Hodgson
+* [Templates as Inspiration for Software Engineers and Engineering Managers](https://blog.pragmaticengineer.com/templates-as-inspiration-for-software-engineers/), by Gergely Orosz
+* [Tech Lead vs Engineering Manager](http://www.engineeringladders.com/TechLead-EngineeringManager.html), by Jorge Fioranelli
 
 ## My Favorite Newsletters
 * [James Clear](https://jamesclear.com/): Habits
