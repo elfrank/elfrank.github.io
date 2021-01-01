@@ -31,6 +31,7 @@ Some of my favorite articles
 * [Delivering on an Architecture Strategy](https://blog.thepete.net/blog/2019/12/09/delivering-on-an-architecture-strategy/), by Pete Hodgson
 * [Templates as Inspiration for Software Engineers and Engineering Managers](https://blog.pragmaticengineer.com/templates-as-inspiration-for-software-engineers/), by Gergely Orosz
 * [Tech Lead vs Engineering Manager](http://www.engineeringladders.com/TechLead-EngineeringManager.html), by Jorge Fioranelli
+* [The Strangler Fig Migration Pattern](https://medium.com/@ddarie/the-strangler-fig-migration-pattern-2e20a7350511) by Diana Darie
 
 ## My Favorite Newsletters
 * [James Clear](https://jamesclear.com/): Habits
