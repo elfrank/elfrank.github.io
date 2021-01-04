@@ -32,6 +32,7 @@ Some of my favorite articles
 * [Templates as Inspiration for Software Engineers and Engineering Managers](https://blog.pragmaticengineer.com/templates-as-inspiration-for-software-engineers/), by Gergely Orosz
 * [Tech Lead vs Engineering Manager](http://www.engineeringladders.com/TechLead-EngineeringManager.html), by Jorge Fioranelli
 * [The Strangler Fig Migration Pattern](https://medium.com/@ddarie/the-strangler-fig-migration-pattern-2e20a7350511) by Diana Darie
+* [Go Slow to Go Fast: Why Process Matters](https://medium.com/@kateruthbrennan/go-slow-to-go-fast-why-process-matters-5dd1beaf3190) by Kate Brennan
 
 ## My Favorite Newsletters
 * [James Clear](https://jamesclear.com/): Habits
